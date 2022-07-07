@@ -1,9 +1,11 @@
 # animated-navigation-v2-react-study
 
-This project was created in React after the completion of the Udemy course, [JavaSrcipt Web Project: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+This project was created in React after the completion of the Udemy course, [JavaSrcipt Web Project: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/).
 
-During this couse, the project was made with vanilla JavaScript so I re-wrote it in React
-The vanilla JavaScript version: [animated-navigation-v1-javascript-study](https://github.com/Pyon18Pyon/animated-navigation-v1-javascript-study)
+During this couse, the project was made with vanilla JavaScript so I re-wrote it in React.
+<sub>The vanilla JavaScript version: [animated-navigation-v1-javascript-study](https://github.com/Pyon18Pyon/animated-navigation-v1-javascript-study).</sub>
+
+The main focus on this project is to create a navigation for a Web site that has some advanced CSS animations.
 
 ## What is does?
 
